@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"astroiedLS","path":"sprites/astroiedLS/astroiedLS.yy",},"order":4,},
     {"id":{"name":"astroiedSO","path":"objects/astroiedSO/astroiedSO.yy",},"order":5,},
+    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":15,},
     {"id":{"name":"spacef1","path":"sprites/spacef1/spacef1.yy",},"order":0,},
     {"id":{"name":"astroiedSS","path":"sprites/astroiedSS/astroiedSS.yy",},"order":2,},
     {"id":{"name":"spacef2","path":"sprites/spacef2/spacef2.yy",},"order":1,},

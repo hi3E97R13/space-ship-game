@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "spaceO1",
   "spriteId": {
-    "name": "spacef1",
-    "path": "sprites/spacef1/spacef1.yy",
+    "name": "Sprite6",
+    "path": "sprites/Sprite6/Sprite6.yy",
   },
   "solid": false,
   "visible": true,
