@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "astroiedOL",
+  "name": "astroiedMO",
   "spriteId": {
     "name": "astroiedMS",
     "path": "sprites/astroiedMS/astroiedMS.yy",

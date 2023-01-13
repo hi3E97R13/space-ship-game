@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "astroiedOL",
+  "name": "bullit_object",
   "spriteId": {
-    "name": "astroiedMS",
-    "path": "sprites/astroiedMS/astroiedMS.yy",
+    "name": "bullit",
+    "path": "sprites/bullit/bullit.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,7 +24,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"astroiedSO","path":"objects/astroiedSO/astroiedSO.yy",},},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
