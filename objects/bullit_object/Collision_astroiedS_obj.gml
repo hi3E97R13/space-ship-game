@@ -4,18 +4,21 @@ instance_destroy();
 with(other){
 	instance_destroy();
 
-if(sprite_index == astroiedOL){
-	repeat(2){
-		var new_asteroid = instance_create_layer(x,y,"instance",astroiedOL);
-		new_asteroid.sprite_index = astroiedMO;
-}
-	}else if (sprite_index == astroiedMO){
-	 repeat(2){
-		var new_asteroid = instance_create_layer(x,y,"instance",astroiedMO);
-		new_asteroid.sprite_index = astroiedSO;
-	 }
+	if(sprite_index == astroiedLS){
+		repeat(2){
+			var new_asteroid = instance_create_layer(x,y,"instance",astroiedL_obj);
+			new_asteroid.sprite_index = astroiedM_obj;
+		}
+	} else if (sprite_index == astroiedM_obj) {
+		 repeat(2) {
+			var new_asteroid = instance_create_layer(x,y,"instance",astroiedM_obj);
+			new_asteroid.sprite_index = astroiedS_obj;
+		 }
 	}
-repeat(5){
-instance_create_layer(x,y,"instance",Object6);
-}
+
+	else{ 
+		repeat(10){
+			instance_create_layer(x,y,"instance",debrey_obj);
+		}
+	}
 }
