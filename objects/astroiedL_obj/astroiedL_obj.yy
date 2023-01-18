@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object6",
-  "spriteId": null,
+  "name": "astroiedL_obj",
+  "spriteId": {
+    "name": "astroiedMS",
+    "path": "sprites/astroiedMS/astroiedMS.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
