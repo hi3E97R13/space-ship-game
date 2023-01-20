@@ -15,7 +15,7 @@ with(other) {
 			new_asteroid.sprite_index = astroiedS_obj;
 		 }
 	}
-	repeat(5) {
+	repeat(50) {
 		instance_create_layer(x,y,"Instances",debrey_obj);
 	}
 }
