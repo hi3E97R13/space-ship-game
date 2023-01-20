@@ -2,7 +2,7 @@
 
 
 instance_destroy();
-repeat(20)
-instance_create_layer(x,y,"instances",Object6)
-
+repeat(20){
+	instance_create_layer(x,y,"Instances",bullit_object);
+}
 
