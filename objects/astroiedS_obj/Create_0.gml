@@ -1,5 +1,5 @@
 /// @astroied creation ??
-sprite_index = choose(astroiedLS,astroiedSS,astroiedS_obj);
+sprite_index = choose(astroiedLS,astroiedSS,astroiedMS);
 direction = irandom_range(0,359);
 image_angle = irandom_range(0,359);
 
