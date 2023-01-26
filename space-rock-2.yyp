@@ -6,6 +6,7 @@
     {"id":{"name":"astroiedM_obj","path":"objects/astroiedM_obj/astroiedM_obj.yy",},"order":0,},
     {"id":{"name":"bullit_object","path":"objects/bullit_object/bullit_object.yy",},"order":4,},
     {"id":{"name":"bullit","path":"sprites/bullit/bullit.yy",},"order":6,},
+    {"id":{"name":"gameover","path":"rooms/gameover/gameover.yy",},"order":2,},
     {"id":{"name":"astroiedLS","path":"sprites/astroiedLS/astroiedLS.yy",},"order":4,},
     {"id":{"name":"astroiedS_obj","path":"objects/astroiedS_obj/astroiedS_obj.yy",},"order":2,},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":15,},
@@ -16,12 +17,14 @@
     {"id":{"name":"debrey","path":"sprites/debrey/debrey.yy",},"order":7,},
     {"id":{"name":"astroiedSS","path":"sprites/astroiedSS/astroiedSS.yy",},"order":2,},
     {"id":{"name":"ship_debre_spr","path":"sprites/ship_debre_spr/ship_debre_spr.yy",},"order":8,},
+    {"id":{"name":"game_win","path":"rooms/game_win/game_win.yy",},"order":3,},
     {"id":{"name":"spacef2","path":"sprites/spacef2/spacef2.yy",},"order":1,},
     {"id":{"name":"spaceshipO1","path":"objects/spaceshipO1/spaceshipO1.yy",},"order":3,},
     {"id":{"name":"astroiedMS","path":"sprites/astroiedMS/astroiedMS.yy",},"order":3,},
     {"id":{"name":"ship_debrey_obj","path":"objects/ship_debrey_obj/ship_debrey_obj.yy",},"order":6,},
     {"id":{"name":"astroiedL_obj","path":"objects/astroiedL_obj/astroiedL_obj.yy",},"order":1,},
     {"id":{"name":"debrey_obj","path":"objects/debrey_obj/debrey_obj.yy",},"order":5,},
+    {"id":{"name":"start_room","path":"rooms/start_room/start_room.yy",},"order":1,},
     {"id":{"name":"rmgame","path":"rooms/rmgame/rmgame.yy",},"order":0,},
   ],
   "Options": [
@@ -38,7 +41,10 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"start_room","path":"rooms/start_room/start_room.yy",},},
     {"roomId":{"name":"rmgame","path":"rooms/rmgame/rmgame.yy",},},
+    {"roomId":{"name":"game_win","path":"rooms/game_win/game_win.yy",},},
+    {"roomId":{"name":"gameover","path":"rooms/gameover/gameover.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
