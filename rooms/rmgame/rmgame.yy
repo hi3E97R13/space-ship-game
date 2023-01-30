@@ -18,12 +18,6 @@
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_652B101C","properties":[],"isDnd":false,"objectId":{"name":"spaceshipO1","path":"objects/spaceshipO1/spaceshipO1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":416.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7ABCEF1D","properties":[],"isDnd":false,"objectId":{"name":"astroiedS_obj","path":"objects/astroiedS_obj/astroiedS_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":640.0,"y":192.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2EE7871","properties":[],"isDnd":false,"objectId":{"name":"astroiedS_obj","path":"objects/astroiedS_obj/astroiedS_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":288.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2D28988","properties":[],"isDnd":false,"objectId":{"name":"astroiedS_obj","path":"objects/astroiedS_obj/astroiedS_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":608.0,"y":672.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_779011A4","properties":[],"isDnd":false,"objectId":{"name":"astroiedS_obj","path":"objects/astroiedS_obj/astroiedS_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":352.0,"y":128.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5ADB55F4","properties":[],"isDnd":false,"objectId":{"name":"astroiedS_obj","path":"objects/astroiedS_obj/astroiedS_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":224.0,"y":576.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_247495FA","properties":[],"isDnd":false,"objectId":{"name":"astroiedS_obj","path":"objects/astroiedS_obj/astroiedS_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":736.0,"y":416.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","spriteId":null,"colour":4278190080,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
   ],
@@ -32,12 +26,6 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_652B101C","path":"rooms/rmgame/rmgame.yy",},
-    {"name":"inst_7ABCEF1D","path":"rooms/rmgame/rmgame.yy",},
-    {"name":"inst_2EE7871","path":"rooms/rmgame/rmgame.yy",},
-    {"name":"inst_2D28988","path":"rooms/rmgame/rmgame.yy",},
-    {"name":"inst_779011A4","path":"rooms/rmgame/rmgame.yy",},
-    {"name":"inst_5ADB55F4","path":"rooms/rmgame/rmgame.yy",},
-    {"name":"inst_247495FA","path":"rooms/rmgame/rmgame.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
