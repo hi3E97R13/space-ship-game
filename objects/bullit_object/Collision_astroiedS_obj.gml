@@ -1,7 +1,7 @@
 /// @description ??
 score +=10
 instance_destroy();
-
+audio_play_sound(die,1, false)
 with(other) {
 	instance_destroy();
 
