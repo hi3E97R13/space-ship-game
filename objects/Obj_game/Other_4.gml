@@ -2,6 +2,9 @@
 if (room != rmgame){
 	exit;
 }
+if (room == rmgame){
+	audio_play_sound(song,2,true)
+}
 if (room== rmgame){
 	repeat(9){
 	var xx = choose(
