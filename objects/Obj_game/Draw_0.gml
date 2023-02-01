@@ -2,9 +2,9 @@
 
 switch(room){
 	case rmgame:
-	draw_text(20,20,"score"+string(score));
+	draw_text(20,20,"score " +string(score));
 
-	draw_text(20,40,"lives"+string(lives));
+	draw_text(20,40,"lives " +string(lives));
 	break;
 
 	case start_room:
@@ -16,7 +16,7 @@ switch(room){
 	);
 	draw_text(
 	room_width/2,200,
-	@"SCORE 1,000 points to win!
+	@"SCORE 5,000 points to win!
 	up: is move
 	left/Right: change direction
 	Space: shoot

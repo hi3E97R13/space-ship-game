@@ -17,7 +17,7 @@ if (room== rmgame){
 	);
 	instance_create_layer(xx,yy,"instances",astroiedS_obj);
 	}
-	alarm[0] = 60;
+	alarm[0] = 20;
 	
 }
 

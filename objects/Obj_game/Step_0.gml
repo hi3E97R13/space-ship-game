@@ -13,7 +13,7 @@ break;
 	}
 }
 if(room == rmgame){
-	if(score >= 1000){
+	if(score >= 5000){
 	room_goto(game_win);
 	audio_play_sound(win,1, false)
 	}

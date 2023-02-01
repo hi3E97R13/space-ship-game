@@ -1,6 +1,6 @@
 /// @description ??
-lives -=1
-with(astroiedS_obj){
+lives -=1;
+with(Obj_game){
 alarm[1] =room_speed;
 }
 
